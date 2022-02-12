@@ -1,6 +1,6 @@
 👋 Hi, I’m @EuNicolasCastro
-👀 I’m in love with FrontEnd and Data Science
-🌱 I'm always learning, in this time, I'm in JS.
+👀 I’m in love with FrontEnd and UX Design
+🌱 I'm always learning, in this time, I'm in Javascript.
 💞️ I’m looking to collaborate on studies and new cowork experiences.
 
 <!---
